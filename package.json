@@ -1,0 +1,27 @@
+{
+  "name": "oauth_github_scope_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denesnori/oauth_github_scope_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denesnori/oauth_github_scope_practice/issues"
+  },
+  "homepage": "https://github.com/denesnori/oauth_github_scope_practice#readme",
+  "dependencies": {
+    "env2": "^2.1.1",
+    "hapi": "^16.0.1",
+    "hapi-auth-cookie": "^6.1.1",
+    "inert": "^4.0.3",
+    "query-string": "^4.2.3",
+    "request": "^2.79.0"
+  }
+}
